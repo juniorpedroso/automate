@@ -1,2 +1,2 @@
-@py.exe D:\Documents\MeusProjetos\automate\cap006\mclip.py %*
+@python D:\DocsHD\MeusProjetos\automate\cap006\mclip.py %*
 @pause
